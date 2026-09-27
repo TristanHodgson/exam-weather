@@ -2,15 +2,26 @@
 
 Investigating which time of year has the best weather for exams.
 
-See [tristanhodgson.com/blog#exam-time](tristanhodgson.com/blog#exam-time) for explanation.
+See [tristanhodgson.com/blog#exam-time](https://tristanhodgson.com/blog#exam-time) for explanation.
+
+<a href="https://tristanhodgson.com/blog#exam-time">
+  <img src="https://tristanhodgson.com/img/social-preview.png" alt="Tristan Hodgson" width="40%">
+</a>
+
 
 ## Graphs
 
-![](temp_score_vs_rainfall.svg)
-
+<!-- ![](temp_score_vs_rainfall.svg)
 ![](boxplot.svg)
+![](scatter.svg) -->
 
-![](scatter.svg)
+<div style="background-color: white; padding: 10px;">
+    <img src="temp_score_vs_rainfall.svg" alt="Temperature score vs rainfall">
+    <img src="boxplot.svg" alt="Temperature score vs rainfall">
+    <img src="scatter.svg" alt="Temperature score vs rainfall">
+</div>
+
+
 
 ## Data
 
