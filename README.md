@@ -11,17 +11,9 @@ See [tristanhodgson.com/blog#exam-time](https://tristanhodgson.com/blog#exam-tim
 
 ## Graphs
 
-<!-- ![](temp_score_vs_rainfall.svg)
+![](temp_score_vs_rainfall.svg)
 ![](boxplot.svg)
-![](scatter.svg) -->
-
-<div style="background-color: white; padding: 10px;">
-    <img src="temp_score_vs_rainfall.svg" alt="Temperature score vs rainfall">
-    <img src="boxplot.svg" alt="Temperature score vs rainfall">
-    <img src="scatter.svg" alt="Temperature score vs rainfall">
-</div>
-
-
+![](scatter.svg)
 
 ## Data
 
